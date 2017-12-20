@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smugmug4writer", "Smugmug4writer\Smugmug4writer.csproj", "{E31AA41A-053C-456C-A593-1195B13B64CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmugMug4writerTests", "SmugMug4writerTests\SmugMug4writerTests.csproj", "{B654597A-8129-49C7-9838-2AB601452745}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B110293F-46F2-40D7-B3CF-0B5D41376DE4}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		Smugmug4writer.vsmdi = Smugmug4writer.vsmdi
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SmugMug4WriterSetup", "SmugMug4WriterSetup\SmugMug4WriterSetup.vdproj", "{DDE392D7-4537-4D2D-AC78-AC639FA52DC4}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs03.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Smugmug4writer\\Smugmug4writer.csproj
+		SccProjectName1 = Smugmug4writer
+		SccLocalPath1 = Smugmug4writer
+		SccProjectUniqueName2 = SmugMug4WriterSetup\\SmugMug4WriterSetup.vdproj
+		SccProjectName2 = SmugMug4WriterSetup
+		SccLocalPath2 = SmugMug4WriterSetup
+		SccProjectUniqueName3 = SmugMug4writerTests\\SmugMug4writerTests.csproj
+		SccProjectName3 = SmugMug4writerTests
+		SccLocalPath3 = SmugMug4writerTests
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Smugmug4writer.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E31AA41A-053C-456C-A593-1195B13B64CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31AA41A-053C-456C-A593-1195B13B64CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31AA41A-053C-456C-A593-1195B13B64CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31AA41A-053C-456C-A593-1195B13B64CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B654597A-8129-49C7-9838-2AB601452745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B654597A-8129-49C7-9838-2AB601452745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B654597A-8129-49C7-9838-2AB601452745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B654597A-8129-49C7-9838-2AB601452745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE392D7-4537-4D2D-AC78-AC639FA52DC4}.Debug|Any CPU.ActiveCfg = Debug
+		{DDE392D7-4537-4D2D-AC78-AC639FA52DC4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

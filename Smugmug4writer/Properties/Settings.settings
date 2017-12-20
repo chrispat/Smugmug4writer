@@ -1,0 +1,38 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SmugMug4writer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ApiVersion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1.2.2</Value>
+    </Setting>
+    <Setting Name="ApiKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">shOxMUSSF0xLchz65OMOrhuQvcTvh1QW</Value>
+    </Setting>
+    <Setting Name="GalleryCSS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;style type="text/css"&gt;
+
+.smugcontainer div {overflow: hidden;line-height: 1.1;margin-top: 10px;font-family: Verdana, arial, lucida, sans-serif;font-size: 85%;}
+
+.smugimg li {
+	float: left;
+	display: block;
+	width: 160px;
+	height: 200px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.smugimg li img {width: auto; height: auto; border: solid 1px #aaa; background: #555; padding: 2px; vertical-align: middle;}
+
+.smugimg a {
+	display: block;
+	text-decoration: none;
+}
+
+.smugimg div {background-color:#ffffff;border:1px solid #2A2A2A;float:left;margin-bottom:10px;margin-right:10px;padding:3px 3px 8px;}
+
+&lt;/style&gt;
+</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
